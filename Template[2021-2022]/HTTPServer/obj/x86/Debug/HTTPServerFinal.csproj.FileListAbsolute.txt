@@ -1,0 +1,6 @@
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServerFinal.csproj.AssemblyReference.cache
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServerFinal.csproj.CoreCompileInputs.cache
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Yasmeen Abdelaziz\FINAL\ours\OurNetworkProject\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
